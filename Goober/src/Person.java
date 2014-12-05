@@ -29,6 +29,8 @@ public class Person {
 
     private void printInfo() {
         // Print name, age, and gender
+        System.out.println("My name is " + this.name);
+        System.out.println("My age is " + this.age);
     }
 
 }
